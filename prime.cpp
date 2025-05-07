@@ -11,7 +11,7 @@ int main(){
         }
     }
     if( istrue == true ){
-        cout << "no" << endl;
+        cout << "nope" << endl;
     }
     else{
         cout << "yes" << endl;
